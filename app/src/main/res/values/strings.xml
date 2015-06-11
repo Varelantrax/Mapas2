@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mapas</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="mapa1">Terreno</string>
+    <string name="mapa2">Hibrido</string>
+    <string name="mapa3">Satelite</string>
+    <string name="mapa4">Normal</string>
+    <string name="mapa5">None</string>
+</resources>
